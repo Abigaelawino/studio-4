@@ -1,0 +1,6 @@
+check,result,status,notes
+Duplicate Rows,0,PASS,Found 0 duplicate rows
+Key Variables Present,0,PASS,Missing key variables: []
+Reasonable Age Values,0,PASS,Found 0 age values outside 0-120 range
+Positive Weights,0,PASS,Found 0 negative weights
+Data Completeness (> 95%),357,PASS,357 variables meet completeness threshold

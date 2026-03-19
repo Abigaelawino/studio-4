@@ -1,0 +1,5 @@
+variable,treatment,count,upper_bound
+NETWORTH,cap_extreme_outliers,115,809465395.8989507
+INCOME,cap_extreme_outliers,115,67265190.28126448
+ASSET,cap_extreme_outliers,115,823740182.3369501
+DEBT,cap_extreme_outliers,115,8705253.500000004
